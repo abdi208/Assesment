@@ -8,6 +8,7 @@
 	border: 20px;
 	background-color: lightgray;
 	font-size: 30px;
+	color: white;
 }
 #subtract{
 	cursor: pointer;
@@ -15,6 +16,7 @@
 	border: 20px;
 	background-color: lightgray;
 	font-size: 30px;
+	color: white;
 }
 #number{
 	font-size: 15px;
@@ -24,4 +26,12 @@
 #total{
 	margin-left: 120px;
 	font-size: 20px;
+}
+#add:hover{
+	background-color: white;
+	color:lightgray;
+}
+#subtract:hover{
+	background-color: white;
+	color:lightgray;
 }
